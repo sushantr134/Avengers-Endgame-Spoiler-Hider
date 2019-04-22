@@ -26,7 +26,7 @@ function hideNode(node) {
 	node.style.color = 'red'
 }
 
-kw = ['AVENGERS','AVENGER','Avengers', 'Avenger', 'Marvel','MARVEL', 'End Game', 'EndGame', 'Captain America', 'Hulk', 'Iron Man','Thor','Black Widow','Black Panther','Ant-Man','Doctor Strange','Hawkeye','Falcon','Nick Fury','Vision','Tony Stark','DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['AVENGERS','AVENGER','Avengers', 'Avenger', 'Marvel','MARVEL', 'End Game', 'EndGame', 'Captain America', 'Hulk', 'Iron Man','Thor','Black Widow','Black Panther','Ant-Man','Doctor Strange','Hawkeye','Falcon','Nick Fury','Vision','Tony Stark','Bruce Banner','Marvel Cinematic Universe','DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
 tags = "SPANEMBIULOLI";
 total = 0;
 
